@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+.delete {
+    margin: 10px;
+}
+
+ul {
+    background-color: rgb(240, 247, 252);
+    padding-left: 20px;
+}
+
+input {
+    border: 2px solid rgb(99, 99, 247);
+    width: 20rem;
+    height: 1.5rem;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.add   {
+    padding: 5px;
+    border-radius: 5px;
+}
